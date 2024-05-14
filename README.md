@@ -13,7 +13,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://img.com/ayrasoares" target="_blank"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/img5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ayyzzz" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/github.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:ayrasoares@gmail.com" target="_blank"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
