@@ -17,9 +17,9 @@
 </td>
 <td><a href="mailto:ayrasoares@gmail.com" target="_blank"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/ayrasoares/" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/instagram.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/instagram.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/ayrasoares/" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/linkedin%20(1).png" width="50px" height="50px"/></a>
 </td>
