@@ -21,7 +21,7 @@
 </td>
 <td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/instagram%20(2).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/ayra-soares-7b0a49207/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/linkedin%20(2).png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/linkedin%20(2).png" width="50px" height="50px"/></a>
 </td>
 <td><a href="" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/goodreads.png" width="50px" height="50px"/></a>
 </td>
