@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://img.com/ayyzz/ayrasoares/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/ayyzzz/ayrasoares/blob/main/img/github-header-image%20(2).png"/>
 </div>
 
 -----
