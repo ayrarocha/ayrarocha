@@ -39,7 +39,7 @@
 -----
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/ayyzzz/ayrasoares/blob/main/img/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
