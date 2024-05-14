@@ -25,8 +25,6 @@
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.com/ayyzz/ayrasoares/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
