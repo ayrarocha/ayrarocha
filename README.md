@@ -15,7 +15,7 @@
 <tr>
 <td><a href="https://github.com/ayyzzz" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/github.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:ayrasoares@gmail.com" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/o-email%20(1).png" width="50px" height="50px"/></a>
+<td><a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/o-email%20(1).png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
 </td>
