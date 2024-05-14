@@ -13,17 +13,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/ayyzzz" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/github.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ayyzzz" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/o-email%20(1).png" width="50px" height="50px"/></a>
+<td><a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/gmail.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/instagram.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/instagram%20(2).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/ayrasoares/" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/linkedin%20(1).png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/ayrasoares/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/linkedin%20(2).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/ayyzzz/ayrasoares/blob/main/img/boas-leituras.png" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/goodreads.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
