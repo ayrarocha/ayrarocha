@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Ayra</code>, tenho 20 anos, moro em BH e sou iniciante na área da programação. Atualmente sou <code>estudante</code> do curso Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, sou a <code>Ayra</code>, tenho 20 anos, moro em BH e sou iniciante na área da programação. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
 
 -----
