@@ -49,15 +49,9 @@
 - :mortar_board: &nbsp; Sou <code>estudante</code> de Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
 - :man_teacher: &nbsp; Sempre conectada no mercado atual, leia mais no meu <a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Linkedin</a>.<br />
 - :briefcase: &nbsp; Atualmente trabalho como <code>Assistente Administrativo Financeiro</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter S/A</a>.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
+- :airplane: &nbsp; Meus hobbies são <code>jogos de PS</code>, pinturas, tricor, crochê e dar uma volta.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:ayrasoaresrocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
