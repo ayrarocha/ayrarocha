@@ -48,7 +48,7 @@
 <p> 
 - :mortar_board: &nbsp; Sou <code>estudante</code> de Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
 - :man_teacher: &nbsp; Sempre conectada no mercado atual, leia mais no meu <a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Linkedin</a>.<br />
-- :briefcase: &nbsp; Atualmente trabalho como <code>Assistente Administrativo Financeiro</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter</a><br />.<br />
+- :briefcase: &nbsp; Atualmente trabalho como <code>Assistente Administrativo Financeiro</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter S/A</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
