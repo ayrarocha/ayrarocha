@@ -50,7 +50,7 @@
 - :man_teacher: &nbsp;Sempre conectada no mercado atual, leia mais no meu <a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Linkedin</a>.<br />
 - :briefcase: &nbsp;Atualmente trabalho como <code>Assistente Administrativo Financeiro</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter S/A</a>.<br />
 - :books: &nbsp;Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
-- :airplane: &nbsp;Meus hobbies são explorar jogos de PS, mergulhar em filmes, pintar, fazer crochê, dar uma volta e tentar novas receitas de sabores.<br />
+- :airplane: &nbsp;Meus hobbies são explorar jogos de PS, mergulhar em filmes, RPG, pintar, fazer crochê, dar uma volta e tentar novas receitas de sabores.<br />
 - :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrasoaresrocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp;Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
