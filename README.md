@@ -63,8 +63,8 @@
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrasoares&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrasoares&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrasoares&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrasoares&theme=github_dark"/>
+<img alt="GitHub Stats" width="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrasoares&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrasoares&theme=github_dark"/>
 </div>
 
 -----
