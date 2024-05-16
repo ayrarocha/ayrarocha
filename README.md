@@ -58,6 +58,27 @@
 
 -----
 
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
+
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/java.png"/></a></code>
+&nbsp; 
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/javafx.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/html.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/css.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/eclipse.png"/></a></code>
+&nbsp; 
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/netbeans.png"/></a></code>
+&nbsp;
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/vs.png"/></a></code>
+&nbsp;
+
+-----
+
 <img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
 
 <div>
