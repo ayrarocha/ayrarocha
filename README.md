@@ -2,7 +2,9 @@
 <div>
 <img align="center" alt="Header" src="https://github.com/ayyzzz/ayrasoares/blob/main/img/header.png"/>
 </div>
+
 -----
+
 <div align="center">
 <table>
 <tr>
@@ -31,7 +33,9 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou a <code>Ayra</code>, tenho 20 anos, moro em BH e atuo na área da programação há 7 meses. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
+ 
 -----
+
 <div>
 <div>
 <img align="right" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/7afbfa56d980705537d1cacf108529bf.gif" width="340px" height="520px"/>
@@ -51,7 +55,9 @@
 </p>
 </div>
 </div>
+
 -----
+
 <img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/>GitHub Stats:
 
 <div>
@@ -60,7 +66,9 @@
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrasoares&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrasoares&theme=github_dark"/>
 </div>
+
 -----
+
 <div>
 <div>
 <details>
