@@ -106,6 +106,7 @@
 <img alt="Spotify list" width="350px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l"/>
 </div>
 <div>
+<details>
 
 -----
 
