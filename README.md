@@ -31,7 +31,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Ayra</code>, tenho 20 anos, moro em BH e atuo na área da programação há 7 meses. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, me chamo <code>Ayra</code>, tenho 20 anos, moro em BH e atuo na área da programação há 7 meses. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
  
 -----
@@ -41,7 +41,7 @@
 <img align="right" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/0756bf3767357ea8913d369eef5c742f.gif" width="420px" height="255px"/>
 </div>
 
-<img height="20" alt="PNG" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/avatar.png"/> Sobre mim:
+<img height="20" alt="PNG" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/avatar.png"/> <i><b>Sobre mim:</b>
 
 <div align="justify">
 <p> 
