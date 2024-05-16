@@ -94,6 +94,7 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>Ay's Spotify Data:</b>
+<div>
 <img src="https://data-card-for-spotify.herokuapp.com/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
 </details>
 </div>
