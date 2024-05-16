@@ -90,16 +90,19 @@
 
 -----
 
-</div>
+<div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data<summary></b>
+<summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data<summary></b>)
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
+</details>
 </div>
+<div>
+<a href="https://www.last.fm/pt/user/Ayrxx" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Ayrxx"/></a>
 </div>
-<a href="https://www.last.fm/pt/user/Ayrxx" target="_blank"><img align="right" width="350px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Ayrxx"/></a>
+<div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=8o9sujogvluvd199rjq0gde9l&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="350px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l&count=10"/>
 </div>
 <div>
 
