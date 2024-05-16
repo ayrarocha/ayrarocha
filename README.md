@@ -90,7 +90,7 @@
 
 -----
 
-<div>
+</div>
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data<summary></b>
