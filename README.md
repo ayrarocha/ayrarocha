@@ -58,7 +58,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrasoares&theme=github_dark"/>
