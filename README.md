@@ -38,7 +38,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/7afbfa56d980705537d1cacf108529bf.gif" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/0756bf3767357ea8913d369eef5c742f.gif" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="PNG" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/avatar.png"/> Sobre mim:
