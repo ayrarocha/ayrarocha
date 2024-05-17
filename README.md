@@ -150,3 +150,25 @@
 </div>
 
 -----
+
+<div>
+<table align="center">
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(8).png" width="50px" height="50px"/></a>
+</td>
+<td>
+| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
+| Última atualização: 13/03/2024
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
