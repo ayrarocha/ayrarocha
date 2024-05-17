@@ -159,7 +159,7 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(8).png" alt="github-footer1"/></a>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(9).png" alt="github-footer1"/></a>
 </td>
 <a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(7).png" alt="github-footer2"/></a>
 </td>
