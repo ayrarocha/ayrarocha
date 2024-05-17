@@ -78,25 +78,21 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrasoares&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrasoares&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrasoares&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrasoares&theme=github_dark"/>
-</div>
-
------
-
 <div>
 <div>
 <details>
-<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data</b>
+<summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> ay's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
+<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://www.last.fm/pt/user/Ayrxx" target="_blank"><img align="right" width="350px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Ayrxx"/></a>
+</div>
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=8o9sujogvluvd199rjq0gde9l&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="350px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l&count=10"/>
+</div>
+<div>
 
 -----
-
