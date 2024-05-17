@@ -51,7 +51,6 @@
 ➤ :books: &nbsp;Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
 ➤ :airplane: &nbsp;Meus hobbies são explorar jogos de PS, RPG, filmes, pintar, fazer crochê, dar uma volta e tentar novas receitas de sabores.<br />
 ➤ :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrasoaresrocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-➤ :page_facing_up: &nbsp;Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </div>
