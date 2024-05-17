@@ -151,28 +151,6 @@
 
 -----
 
-</div>
-<div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(9).png" alt="github-footer1"/></a>
-</td>
-<a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github-header-image%20(7).png" alt="github-footer2"/></a>
-</td>
-<td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
------
-
 <div>
 <table align="center">
 <tr>
@@ -180,11 +158,11 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/ayrasoares" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/aceno.gif" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
+| Créditos: <a href="https://github.com/ayrasoares" target="_blank">© 2024 Ayra</a><br />
+| Última atualização: 17/05/2024
 </td>
 </tr>
 <tr>
@@ -194,3 +172,13 @@
 </div>
 
 -----
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
+
+<!---
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
+</div>
+-->
+
+<!-- Obrigado pela visita! -->
