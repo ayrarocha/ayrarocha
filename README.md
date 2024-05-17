@@ -177,7 +177,7 @@
 
 <!---
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/ayrasoares/joaopauloaramuni/blob/main/img/footer-gray.gif"/>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/footer-gray%20(3).gif"/>
 </div>
 -->
 
