@@ -113,7 +113,7 @@
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/pythonmg.png" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
@@ -146,7 +146,6 @@
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/ayrasoares?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/ayrasoares?style=social"/>
-<a href="https://github.com/ayrasoares/ayrasoares/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
