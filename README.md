@@ -1,6 +1,6 @@
 -----
 <div>
-<img align="center" alt="Header" src="https://github.com/ayyzzz/ayrasoares/blob/main/img/header.png"/>
+<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header.png"/>
 </div>
 
 -----
@@ -11,17 +11,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/ayrasoares" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/github%20(1).png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/github%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:ayrasoaresrocha@gmail.com" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/gmail.png" width="50px" height="50px"/></a>
+<td><a href="mailto:ayrarocharocha@gmail.com" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gmail.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/instagram%20(2).png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/ayra_rx0/" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/instagram%20(2).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/linkedin%20(2).png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/linkedin%20(2).png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/goodreads.png" width="50px" height="50px"/></a>
+<td><a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/goodreads.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -38,17 +38,17 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="420px" height="255px"/>
+<img align="right" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="420px" height="255px"/>
 </div>
 
-<img height="28" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/avatar.gif"/> <i><b>Sobre mim:</b>
+<img height="28" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/avatar.gif"/> <i><b>Sobre mim:</b>
 
 <div align="justify">
 <p> 
 ➤ :mortar_board: &nbsp;Sou <code>estudante</code> de Sistemas de Informação na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
 ➤ :man_teacher: &nbsp;Sempre conectada no mercado atual, leia mais no meu <a href="https://www.linkedin.com/in/ayra-soares-7b0a49207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Linkedin</a>.<br />
 ➤ :briefcase: &nbsp;Atualmente trabalho como <code>Assistente Administrativo Financeiro</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter S/A</a>.<br />
-➤ :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrasoaresrocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+➤ :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrarocharocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 ➤ :books: &nbsp;Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
 ➤ :airplane: &nbsp;Meus hobbies são explorar jogos de PS, RPG, filmes, pintar, fazer crochê, dar uma volta e tentar novas receitas de sabores.<br />
 ➤ :aries: &nbsp;Sou de Áries.<br />
@@ -60,32 +60,32 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
+<img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/java.png"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/java.png"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/javafx.png"/></a></code>
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/javafx.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/html.svg"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/css.svg"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/css.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/eclipse.png"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/eclipse.png"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/netbeans.png"/></a></code>
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/netbeans.png"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/vs.png"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/vs.png"/></a></code>
 &nbsp;
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
+<img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrasoares&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrasoares&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrasoares&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrasoares&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrarocha&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrarocha&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrarocha&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrarocha&theme=github_dark"/>
 </div>
 
 -----
@@ -93,7 +93,7 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data:</b></summary>
+<summary><img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data:</b></summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
 </details>
 </div>
@@ -114,7 +114,7 @@
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/pythonmg.png" width="70px" height="70px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/pythonmg.png" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
@@ -140,13 +140,13 @@
 <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ayrasoares"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/ayrasoares/ayrasoares?logo=git"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ayrarocha"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/ayrarocha/ayrarocha?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
-<img alt="Followers" src="https://img.shields.io/github/followers/ayrasoares?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/ayrasoares?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/ayrarocha?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/ayrarocha?style=social"/>
 </div>
 
 -----
@@ -158,10 +158,10 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/ayrasoares" target="_blank"><img src="https://github.com/ayrasoares/ayrasoares/blob/main/img/aceno.gif" width="50px" height="50px"/></a>
+<a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/aceno.gif" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/ayrasoares" target="_blank">© 2024 Ayra</a><br />
+| Créditos: <a href="https://github.com/ayrarocha" target="_blank">© 2024 Ayra</a><br />
 | Última atualização: 17/05/2024
 </td>
 </tr>
@@ -177,7 +177,7 @@
 
 <!---
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/ayrasoares/ayrasoares/blob/main/img/footer-gray%20(3).gif"/>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/footer-gray%20(3).gif"/>
 </div>
 -->
 
