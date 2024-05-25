@@ -70,6 +70,8 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/css.svg"/></a></code>
 &nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/js.png"/></a></code>
+&nbsp;
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/eclipse.png"/></a></code>
 &nbsp; 
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/netbeans.png"/></a></code>
