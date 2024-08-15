@@ -165,7 +165,7 @@
 </td>
 <td>
 | Créditos: <a href="https://github.com/ayrarocha" target="_blank">© 2024 Ayra</a><br />
-| Última atualização: 17/05/2024
+| Última atualização: 15/08/2024
 </td>
 </tr>
 <tr>
