@@ -124,6 +124,8 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 <a href="https://letterboxd.com/ayy_myy/" target="_blank">
   <img src="https://img.shields.io/badge/Letterboxd-Profile-blue?logo=letterboxd" alt="Letterboxd Profile"/>
 </a>
+
+</div>
 -----
 
 <div>
