@@ -119,6 +119,7 @@
 <div>
 
 <summary><img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/popcorn.gif"/>&nbsp; <i><b>Letterboxd:</b>
+ 
 Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliações no Letterboxd:
  
 <a href="https://letterboxd.com/ayy_myy/" target="_blank">
@@ -127,6 +128,7 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 </p>
 </div>
 </div>
+
 -----
 
 <div>
