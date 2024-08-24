@@ -79,6 +79,12 @@
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/vs.png"/></a></code>
 &nbsp;
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/pc.png"/></a></code>
+&nbsp;
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/python.png"/></a></code>
+&nbsp;
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/mysql.png"/></a></code>
+&nbsp;
 
 -----
 
