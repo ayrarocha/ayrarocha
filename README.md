@@ -1,9 +1,11 @@
 -----
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif" style="max-width: 100%; height: auto;" />
+<div>
+<div>
+<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif"width="1010px"/>
 </div>
 
 -----
+
 <div align="center">
 <table>
 <tr>
