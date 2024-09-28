@@ -1,6 +1,6 @@
 -----
 <div>
-<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header.gif"/>
+<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/headergif.gif"/>
 </div>
 
 -----
