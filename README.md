@@ -1,6 +1,4 @@
-<div style="text-align: center; margin: 0; padding: 0;">
-    <img alt="Header" src="https://raw.githubusercontent.com/ayrarocha/ayrarocha/main/img/headergif.gif" style="max-width: 100%; height: auto;"/>
-</div>
+<img src="https://raw.githubusercontent.com/ayrarocha/ayrarocha/main/img/headergif.gif" alt="Header" style="display: block; margin: 0 auto;">
 <div align="center">
 <table>
 <tr>
