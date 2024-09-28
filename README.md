@@ -1,8 +1,19 @@
 -----
-<div>
-<div>
-<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
+<style>
+  .no-spacing {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<div class="no-spacing">
+  <div>
+    <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
+  </div>
 </div>
+ 
+-----
+
 <div align="center">
 <table>
 <tr>
@@ -26,8 +37,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
- 
------
 
 </div>
 <div align="justify">
