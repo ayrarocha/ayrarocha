@@ -1,6 +1,6 @@
 -----
 <div style="text-align: center;">
-  <img alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif" />
+  <img alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif" style="display: block; margin: 0 auto;" />
 </div>
 
 -----
