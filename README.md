@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img alt="Header" src="https://raw.githubusercontent.com/ayrarocha/ayrarocha/main/img/headergif.gif" style="max-width: 100%; height: auto;"/>
+    <img alt="Header" src="https://raw.githubusercontent.com/ayrarocha/ayrarocha/main/img/headergif.gif" style="max-width: 100%; height: 200px;"/>
 </div>
 <div align="center">
 <table>
