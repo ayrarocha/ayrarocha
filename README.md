@@ -1,10 +1,8 @@
 -----
-
 <div>
 <div>
 <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
 </div>
-
 -----
 
 <div align="center">
