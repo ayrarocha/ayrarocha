@@ -1,15 +1,12 @@
-<style>
-  .no-spacing {
-    margin: 0;
-    padding: 0;
-  }
-</style>
+-----
 
-<div class="no-spacing">
-  <div>
-    <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
-  </div>
-</div>
+<table style="border-collapse: collapse; width: 100%; margin: 0; padding: 0;">
+  <tr>
+    <td style="padding: 0;">
+      <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
+    </td>
+  </tr>
+</table>
  
 -----
 
