@@ -1,5 +1,5 @@
 -----
-<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gheader.gif" width="1000px" height="500px" style="display: block; margin: 0; padding: 0;"/>
+<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gheader.gif"
 <div align="center">
 <table>
 <tr>
