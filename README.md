@@ -1,6 +1,9 @@
-<div style="text-align: center;">
-    <img alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/headergif2.gif" style="max-width: 100%; height: auto;"/>
+-----
+<div>
+<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/headergif2.gif"/>
 </div>
+
+-----
 
 <div align="center">
 <table>
