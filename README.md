@@ -1,10 +1,8 @@
 -----
 <div>
-<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/headergif.gif"/>
+<img align="center" alt="Header" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header.gif"/>
 </div>
-
 -----
-
 <div align="center">
 <table>
 <tr>
