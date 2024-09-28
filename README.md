@@ -1,7 +1,7 @@
 -----
 <div>
 <div>
-<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif"width="1010px"/>
+<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gifheader.gif"width="/>
 </div>
 
 -----
