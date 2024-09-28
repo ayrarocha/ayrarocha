@@ -1,12 +1,6 @@
 -----
 
-<table style="border-collapse: collapse; width: 100%; margin: 0; padding: 0;">
-  <tr>
-    <td style="padding: 0;">
-      <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
-    </td>
-  </tr>
-</table>
+<img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header2.gif" width="1000px" height="500px"/>
  
 -----
 
