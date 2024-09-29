@@ -12,8 +12,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/github%20(1).png" width="50px" height="50px"/></a>
-</td>
 <td><a href="mailto:ayrarocharocha@gmail.com" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gmail.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/55031987610832" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/whatsapp%20(1).png" width="50px" height="50px"/></a>
