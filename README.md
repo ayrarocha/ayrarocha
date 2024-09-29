@@ -200,7 +200,7 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 
 <!---
 <div>
-<img align="center" alt="Footer" width="1200px" height="250px" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/footer-gray%20(3).gif"/>
+<img align="center" alt="Footer" width="1500px" height="250px" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/footer-gray%20(3).gif"/>
 </div>
 -->
 
