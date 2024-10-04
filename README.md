@@ -37,7 +37,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/f53601133f236d1cb167ac19f05a3d60.gif" width="400px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/f53601133f236d1cb167ac19f05a3d60.gif" width="420px" height="270px"/>
 </div>
 
 <img height="28" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/avatar.gif"/> <i><b>Sobre mim:</b>
@@ -55,9 +55,6 @@
 </p>
 </div>
 </div>
-
-
-
 
 -----
 
