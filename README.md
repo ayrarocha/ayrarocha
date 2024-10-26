@@ -34,7 +34,7 @@
  
 -----
 
-<img height="35" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gatinho.gif"/> <i><b>Sobre mim:</b>
+<img height="35" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/mario.gif"/> <i><b>Sobre mim:</b>
 
 <div align="justify">
 <p> 
@@ -106,7 +106,7 @@
 -----
 <div>
  
-<img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/popcorn.gif"/>&nbsp; <i><b>Letterboxd:</b>
+<img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/cinema.gif"/>&nbsp; <i><b>Letterboxd:</b>
  
 Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliações no Letterboxd:
  
@@ -167,7 +167,7 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/aceno.gif" width="50px" height="50px"/></a>
+<a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gatinho.gif" width="50px" height="50px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/ayrarocha" target="_blank">© 2024 Ayra</a><br />
