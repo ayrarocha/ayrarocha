@@ -51,7 +51,7 @@
 
 -----
 
-<img height="27" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
+<img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/java.png"/></a></code>
 &nbsp; 
@@ -78,7 +78,7 @@
 
 -----
 
-<img height="30" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
+<img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/graphic.gif"/> <i><b>GitHub Stats:</b>
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayrarocha&theme=github_dark"/>
@@ -91,7 +91,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data:</b></summary>
+<summary><img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data:</b></summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
 </details>
 </div>
@@ -106,7 +106,7 @@
 -----
 <div>
  
-<img height="30" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/cinema.gif"/>&nbsp; <i><b>Letterboxd:</b>
+<img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/cinema.gif"/>&nbsp; <i><b>Letterboxd:</b>
  
 Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliações no Letterboxd:
  
