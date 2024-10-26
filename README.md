@@ -117,13 +117,6 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 -----
 
 <div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/pythonmg.png" width="70px" height="70px"/></a></td>
-</tr>
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
