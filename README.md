@@ -1,6 +1,5 @@
 -----
 <div>
-<div>
 <img align="center" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/header.gif"/>
 </div>
 
@@ -52,8 +51,6 @@
 
 -----
 
-<div>
-
 <img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/java.png"/></a></code>
@@ -93,7 +90,6 @@
 -----
 
 <div>
-<div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/spotify.gif"/> <i><b>ay's Spotify Data:</b></summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8o9sujogvluvd199rjq0gde9l" alt="Data Card for Spotify">
@@ -106,10 +102,8 @@
 <img alt="Spotify" width="180px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=8o9sujogvluvd199rjq0gde9l&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="310px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l"/>
 </div>
-<div>
 
 -----
-<div>
 <div>
  
 <img height="25" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/popcorn.gif"/>&nbsp; <i><b>Letterboxd:</b>
