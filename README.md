@@ -117,6 +117,9 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 -----
 
 <div>
+<tr>
+<td align="center" colspan="1"></td>
+</tr> 
 </table>
 <img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
