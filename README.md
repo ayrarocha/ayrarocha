@@ -96,7 +96,7 @@
 </details>
 </div>
 <div>
-<a href="https://www.last.fm/pt/user/Ayrxx" target="_blank"><img align="center" width="310px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Ayrxx"/></a>
+<a href="https://www.last.fm/pt/user/Ayrxx" target="_blank"><img align="right" width="310px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Ayrxx"/></a>
 </div>
 <div> 
 <img alt="Spotify list" width="310px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8o9sujogvluvd199rjq0gde9l"/>
