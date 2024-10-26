@@ -117,12 +117,12 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 -----
 
 <div>
-<tr>
+ <tr>
 <td align="center" colspan="1"></td>
-</tr> 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ayrarocha"/>
-<img alt="Followers" src="https://img.shields.io/github/followers/ayrarocha?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/ayrarocha?style=social"/>
+</tr>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ayrarocha" style="pointer-events: none;"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/ayrarocha?style=social" />
+<img alt="Stars" src="https://img.shields.io/github/stars/ayrarocha?style=social" />
 </div>
 
 -----
