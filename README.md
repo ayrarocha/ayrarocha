@@ -117,9 +117,6 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 -----
 
 <div>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
 </table>
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/Java-Expert-blue"/>
