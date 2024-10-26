@@ -121,11 +121,6 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
-<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ayrarocha"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/ayrarocha/ayrarocha?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
