@@ -34,7 +34,7 @@
  
 -----
 
-<img height="45" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/shadow.gif"/> <i><b>Sobre mim:</b>
+<img height="48" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/shadow.gif"/> <i><b>Sobre mim:</b>
 
 <div align="justify">
 <p> 
