@@ -51,7 +51,7 @@
 
 -----
 
-<img height="30" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
+<img height="27" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/skills.gif"/>&nbsp; <i><b>Linguagens e ferramentas:</b>
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/java.png"/></a></code>
 &nbsp; 
@@ -106,7 +106,7 @@
 -----
 <div>
  
-<img height="27" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/cinema.gif"/>&nbsp; <i><b>Letterboxd:</b>
+<img height="30" alt="GIF" src="https://github.com/ayrarocha/ayrarocha/blob/main/img/cinema.gif"/>&nbsp; <i><b>Letterboxd:</b>
  
 Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliações no Letterboxd:
  
