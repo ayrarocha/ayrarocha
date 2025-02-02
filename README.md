@@ -109,7 +109,7 @@
  
 Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliações no Letterboxd:
  
-<a href="My profile on Letterboxd https://boxd.it/46TyL">
+<a href="https://letterboxd.com/_ay_/">
   <img src="https://img.shields.io/badge/Letterboxd-Profile-blue?logo=letterboxd" alt="Letterboxd Profile"/>
 </a>
 </div>
