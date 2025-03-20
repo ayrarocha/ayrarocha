@@ -43,7 +43,7 @@
 ➤ :briefcase: &nbsp;Atualmente trabalho como <code>Analista Financeira</code> na <a href="https://neocenter.com.br/" target="_blank">Neocenter S/A</a>.<br />
 ➤ :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrarocharocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 ➤ :books: &nbsp;Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
-➤ :video_game: &nbsp;Meus hobbies são explorar jogos de PS, RPG, filmes, pintar, fazer crochê, dar uma volta e tentar novas receitas de sabores.<br />
+➤ :video_game: &nbsp;Meus hobbies são explorar jogos de PS, RPG, animes, desenhos, livros, filmes, pintar, fazer crochê e sair.<br />
 ➤ :two_hearts: &nbsp;Eu namoro. <br />
 ➤ :aries: &nbsp;Sou de Áries.<br />
 </p>
