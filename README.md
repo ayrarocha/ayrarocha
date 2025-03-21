@@ -137,7 +137,7 @@ Sou apaixonada por filmes. Confira o que estou assistindo e as minhas avaliaçõ
 <a href="https://github.com/ayrarocha" target="_blank"><img src="https://github.com/ayrarocha/ayrarocha/blob/main/img/gatinho.gif" width="100px" height="100px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/ayrarocha" target="_blank">© 2024 Ayra</a><br />
+| Créditos: <a href="https://github.com/ayrarocha" target="_blank">© 2025 Ayra</a><br />
 | Última atualização: 15/08/2024
 </td>
 </tr>
