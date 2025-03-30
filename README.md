@@ -29,7 +29,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, me chamo <code>Ayra</code>, tenho 20 anos, moro em BH e atuo na área da programação há 1 ano. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, me chamo <code>Ayra</code>, tenho 21 anos, moro em BH e atuo na área da programação há 1 ano. Atualmente sou <code>estudante</code> do curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
  
 -----
