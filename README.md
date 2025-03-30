@@ -44,7 +44,7 @@
 ➤ :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:ayrarocharocha@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 ➤ :books: &nbsp;Acesse os livros que já li ou estou lendo <a href="https://www.goodreads.com/user/show/176773070-ayra-soares" target="_blank">aqui</a>.<br />
 ➤ :video_game: &nbsp;Meus hobbies são explorar jogos de PS, RPG, animes, desenhos, livros, filmes, pintar, fazer crochê e sair.<br />
-➤ :smile_cat: &nbsp;Meus pronomes são ela/dela.<br />
+➤ :smile_cat: &nbsp;Meus pronomes são <code>ela/dela.</code><br />
 ➤ :two_hearts: &nbsp;Eu namoro. <br />
 ➤ :aries: &nbsp;Sou de Áries.<br />
 </p>
